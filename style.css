@@ -75,6 +75,7 @@ main{
   padding:10px;
   border:1px solid #eee;
   width:90%;
+  float:none;
 }
 .step-box:last-child{
   margin:0 auto 0;
